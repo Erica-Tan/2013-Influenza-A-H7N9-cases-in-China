@@ -200,7 +200,7 @@ library(grid)
 grid.arrange(p1, p2, ncol = 2)
 ```
 
-As we can see from the first density curve, people who have this disease will die in a short period of time. If the patients cannot recover within the specified period of time, they more likely to die. 
+As we can see from the first density curve, people who have this disease will die in a short period of time. If the patients cannot recover within the specified period of time, they are more likely to die. 
 
 The second density curve shows that shortening the days between onset and hospitalisation can decrease the death rate
 
